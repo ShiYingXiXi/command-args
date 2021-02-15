@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 declare -a OtherArgArray ## 声明一个数组，用来存储非选项参数
 while [ $# -ne 0 ]
 do
